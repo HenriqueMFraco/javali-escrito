@@ -7,3 +7,5 @@ git status - verifica
 "git add ."- adiciona alterações
 git commit -m - da nome a alteracao
 git push - salva as alterecoes no remoto e local
+
+vscode
